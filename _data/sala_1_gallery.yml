@@ -1,0 +1,74 @@
+- title: Fotos
+  description: Galeria sala 1
+  images:
+    - link: /images/sala-1/photo_2022-09-03_19-25-51.jpg
+      alt: The alt text for the image
+      description: |-
+        Sala 1
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-29-23.jpg
+      alt: The alt text for the image
+      description: |-
+        Sala 1
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-29-28.jpg
+      alt: The alt text for the image
+      description: |-
+        Sala 1
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-29-31.jpg
+      alt: The alt text for the image
+      description: |-
+        Sala 1
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-29-33.jpg
+      # alt: The alt text for the image
+      description: |-
+        Visão da bateria
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-29-36.jpg
+      alt: The alt text for the image
+      description: |-
+        Visão da bateria
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-29-50.jpg
+      alt: The alt text for the image
+      description: |-
+        Cabeçote Mesa Boogie Triple Rectifier
+
+        Caixa Marshall 1960 4x12
+      ratio: is-4by5
+    - link: /images/sala-1/photo_2022-09-03_19-29-56.jpg
+      # alt: The alt text for the image
+      description: |-
+        Cabeçote Peavey 6505
+
+        Caixa Marshall 1960 4x12
+      ratio: is-4by5
+    - link: /images/sala-1/photo_2022-09-03_19-30-05.jpg
+      alt: Baixo
+      description: |-
+        Ampeg SVT-4 Pro
+
+        Caixa Ampeg Classic 8x10
+      ratio: is-4by5
+    - link: /images/sala-1/photo_2022-09-03_19-30-12.jpg
+      alt: Bateria
+      description: |-
+        Tama Superstar Custom Birch
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-30-15.jpg
+      alt: The alt text for the image
+      description: |-
+        Tama Superstar Custom Birch
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-30-18.jpg
+      alt: Bateria
+      description: |-
+        Tama Superstar Custom Birch
+      ratio: is-4by3
+    - link: /images/sala-1/photo_2022-09-03_19-30-21.jpg
+      alt: Bateria
+      description: |-
+        Tama Superstar Custom Birch
+      ratio: is-4by3

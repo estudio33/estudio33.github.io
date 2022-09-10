@@ -1,0 +1,39 @@
+- title: Fotos
+  description: Galeria sala 2
+  images:
+    - link: /images/sala-2/photo_2022-09-03_19-28-48.jpg
+      alt: The alt text for the image
+      description: |-
+        Sala 2
+      ratio: is-4by5
+    - link: /images/sala-2/photo_2022-09-03_19-28-52.jpg
+      alt: The alt text for the image
+      description: |-
+        Sala 2 entrada
+      ratio: is-4by5
+    - link: /images/sala-2/photo_2022-09-03_19-28-46.jpg
+      alt: The alt text for the image
+      description: |-
+        Tama Superstar EFX Custom Silk Special Edition
+      ratio: is-4by5
+    - link: /images/sala-2/photo_2022-09-03_19-28-59.jpg
+      alt: The alt text for the image
+      description: |-
+        Cabeçote Ampeg Svt-3 Pro
+
+        Caixa Ampeg Classic 4x10
+      ratio: is-4by5
+    - link: /images/sala-2/photo_2022-09-03_19-29-05.jpg
+      alt: The alt text for the image
+      description: |-
+        Cabeçote Marshall JCM900
+
+        Caixa Laney LV412 4x12
+      ratio: is-4by5
+    - link: /images/sala-2/photo_2022-09-03_19-29-12.jpg
+      alt: The alt text for the image
+      description: |-
+        Cabeçote Peavey 6505
+
+        Caixa Laney LV412 4x12
+      ratio: is-4by5

@@ -1,0 +1,7 @@
+- title: Locação
+  description: Locação de equipamentos
+  images:
+    - link: /images/locacao.png
+      description: |-
+        Equipamentos
+      ratio: is-16by9

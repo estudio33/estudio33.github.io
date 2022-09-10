@@ -1,0 +1,9 @@
+- title: SALA 1 (maior)
+  price_1: R$ 50,00
+  price_2: R$ 100,00
+- title: SALA 2 (escada)
+  price_1: R$ 40,00
+  price_2: R$ 80,00
+- title: SALA 3 (garagem)
+  price_1: R$ 45,00
+  price_2: R$ 90,00

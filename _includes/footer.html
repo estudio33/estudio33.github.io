@@ -1,0 +1,28 @@
+<footer class="footer">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        <h2>Endereço:</h2>
+        <a href="https://goo.gl/maps/PWeRG5V3unJxgZYS7" target="_blank">
+          Rua Trajano Reis, 336. Bairro São Francisco. Curitiba, PR
+        </a>
+      </div>
+      <div class="column">
+        <h2>Telefones:</h2>
+        <a class="has-text-link" href="tel:41-9655-3755">(41) 9655-3755</a> - Vivo
+        <span class="has-text-grey">(celular e whatsapp)</span>
+      </div>
+    </div>
+    {% if site.footer_menu %}
+      <div class="columns is-multiline">
+        {% for item in site.data[site.footer_menu] %}
+          <div class="column has-text-centered">
+            <div>
+              <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</footer>

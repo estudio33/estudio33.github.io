@@ -1,0 +1,10 @@
+- name: Salas
+  dropdown:
+    - name: Sala 1
+      link: /sala-1/
+    - name: Sala 2
+      link: /sala-2/
+    - name: Sala 3
+      link: /sala-3/
+- name: Locação
+  link: /locacao/

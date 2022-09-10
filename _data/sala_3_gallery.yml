@@ -1,0 +1,39 @@
+- title: Fotos
+  description: Galeria sala 3
+  images:
+    - link: /images/sala-3/photo_2022-09-03_19-28-09.jpg
+      alt: The alt text for the image
+      description: |-
+        Sala 3
+      ratio: is-4by5
+    - link: /images/sala-3/photo_2022-09-03_19-28-16.jpg
+      alt: The alt text for the image
+      description: |-
+        Sala 3 visão da bateria
+      ratio: is-4by5
+    - link: /images/sala-3/photo_2022-09-03_19-28-21.jpg
+      alt: The alt text for the image
+      description: |-
+        Tama Superstar EFX Custom Red Silk Special Edition
+      ratio: is-4by5
+    - link: /images/sala-3/photo_2022-09-03_19-28-34.jpg
+      alt: The alt text for the image
+      description: |-
+        Cabeçote Ampeg Svt-3 Pro
+
+        Caixa Ampeg Classic 4x10
+      ratio: is-4by5
+    - link: /images/sala-3/photo_2022-09-03_19-28-37.jpg
+      alt: The alt text for the image
+      description: |-
+        Cabeçote Marshall JCM900
+
+        Caixa Marshall 1960 4x12
+      ratio: is-4by5
+    - link: /images/sala-3/photo_2022-09-03_19-28-41.jpg
+      alt: The alt text for the image
+      description: |-
+        Cabeçote Peavey 6505
+
+        Caixa Marshall 1960 4x12
+      ratio: is-4by5
