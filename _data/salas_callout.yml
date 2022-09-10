@@ -12,7 +12,7 @@ items:
         <strong>Duas horas: R$ 100</strong>
       </p>
     call_to_action_name: Ver sala 1
-    call_to_action_link: /sala-1/
+    call_to_action_link: /sala-1
   - title: Sala 2
     subtitle: (escada)
     icon: fa-guitar
@@ -24,7 +24,7 @@ items:
         <strong>Duas horas: R$ 80</strong>
       </p>
     call_to_action_name: Ver sala 2
-    call_to_action_link: /sala-2/
+    call_to_action_link: /sala-2
   - title: Sala 3
     subtitle: (garagem)
     icon: fa-drum
@@ -36,4 +36,4 @@ items:
         <strong>Duas horas: R$ 90</strong>
       </p>
     call_to_action_name: Ver sala 3
-    call_to_action_link: /sala-3/
+    call_to_action_link: /sala-3
