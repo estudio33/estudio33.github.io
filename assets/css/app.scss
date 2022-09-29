@@ -4,3 +4,14 @@ $primary: #626262;
 $link: #ee153d;
 // Import Main CSS file from theme
 @import "main";
+
+
+.logo {
+  max-height: 200px;
+}
+
+@media screen and (min-width: 769px), print {
+  .hero.is-medium .hero-body {
+      padding: 4rem 2rem;
+  }
+}
