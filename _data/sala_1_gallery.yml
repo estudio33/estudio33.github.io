@@ -26,10 +26,10 @@
       description: |-
         Visão da bateria
       ratio: is-4by3
-    - link: /images/sala-1/photo_2022-09-03_19-29-36.jpg
-      alt: The alt text for the image
+    - link: /images/sala-1/photo_2022-09-03_19-30-12.jpg
+      alt: Bateria
       description: |-
-        Visão da bateria
+        Tama Superstar Custom Birch
       ratio: is-4by3
     - link: /images/sala-1/photo_2022-09-03_19-29-50.jpg
       alt: The alt text for the image
@@ -52,23 +52,3 @@
 
         Caixa Ampeg Classic 8x10
       ratio: is-4by5
-    - link: /images/sala-1/photo_2022-09-03_19-30-12.jpg
-      alt: Bateria
-      description: |-
-        Tama Superstar Custom Birch
-      ratio: is-4by3
-    - link: /images/sala-1/photo_2022-09-03_19-30-15.jpg
-      alt: The alt text for the image
-      description: |-
-        Tama Superstar Custom Birch
-      ratio: is-4by3
-    - link: /images/sala-1/photo_2022-09-03_19-30-18.jpg
-      alt: Bateria
-      description: |-
-        Tama Superstar Custom Birch
-      ratio: is-4by3
-    - link: /images/sala-1/photo_2022-09-03_19-30-21.jpg
-      alt: Bateria
-      description: |-
-        Tama Superstar Custom Birch
-      ratio: is-4by3

@@ -6,10 +6,7 @@ items:
     icon: fa-music
     description: >
       <p>
-        <strong>Hora avulsa: R$ 50</strong>
-      </p>
-      <p>
-        <strong>Duas horas: R$ 100</strong>
+        <strong>Hora: R$ 60</strong>
       </p>
     call_to_action_name: Ver sala 1
     call_to_action_link: /sala-1
@@ -18,10 +15,7 @@ items:
     icon: fa-guitar
     description: >
       <p>
-        <strong>Hora avulsa: R$ 40</strong>
-      </p>
-      <p>
-        <strong>Duas horas: R$ 80</strong>
+        <strong>Hora: R$ 50</strong>
       </p>
     call_to_action_name: Ver sala 2
     call_to_action_link: /sala-2
@@ -30,10 +24,7 @@ items:
     icon: fa-drum
     description: >
       <p>
-        <strong>Hora avulsa: R$ 45</strong>
-      </p>
-      <p>
-        <strong>Duas horas: R$ 90</strong>
+        <strong>Hora: R$ 55</strong>
       </p>
     call_to_action_name: Ver sala 3
     call_to_action_link: /sala-3
