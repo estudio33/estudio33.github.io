@@ -30,6 +30,7 @@ url: "https://estudio33.github.io" # the base hostname & protocol for your site,
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
+# theme: bulma-clean-theme
 # plugins:
 #   - jekyll-feed
 lang: pt-BR
