@@ -1,10 +1,12 @@
 - name: Salas
   dropdown:
     - name: Sala 1
-      link: /sala-1
+      link: /sala-1.html
     - name: Sala 2
-      link: /sala-2
+      link: /sala-2.html
     - name: Sala 3
-      link: /sala-3
-# - name: Locação
-#   link: /locacao
+      link: /sala-3.html
+- name: Promoções
+  link: /promocoes.html
+- name: Locação
+  link: /locacao.html
