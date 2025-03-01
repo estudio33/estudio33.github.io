@@ -21,3 +21,7 @@ $navbar-breakpoint: 625px;
   width: 100%;
   min-height: 530px;
 }
+
+.has-dropdown > a {
+  pointer-events: none;
+}
