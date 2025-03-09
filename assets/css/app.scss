@@ -11,6 +11,28 @@ $navbar-breakpoint: 625px;
   max-height: 200px;
 }
 
+.hint {
+  display: none;
+}
+
+@media screen and (max-width: $navbar-breakpoint) {
+  .hint {
+    display: block;
+    font-size: 0.75em;
+  }
+
+  .menu-button-container {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+
+    a.navbar-burger {
+      margin-left: 0;
+    }
+  }
+}
+
 @media screen and (min-width: 769px), print {
   .hero.is-medium .hero-body {
       padding: 4rem 2rem;
